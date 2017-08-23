@@ -2,7 +2,10 @@
 <head></head>
 <body>
 //Dev branch modification
-//Dev Branch new updates
+<<<<<<< HEAD
 //EPS branch changes
+=======
+//Dev Branch new updates
+>>>>>>> Dev
 </body>
 </html>
